@@ -1,0 +1,21 @@
+img {
+  width: 300px;
+  length: 300px;
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+
+h1 {
+  color: pink;
+  background-color: darkorchid;
+  width: 50%;
+}
+
+a {
+  color: red;
+  background-color: yellow;
+  border-radius: 40%;
+  width: 50%;
+  font-size: medium;
+  display: flex;
+}
